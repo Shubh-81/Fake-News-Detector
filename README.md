@@ -58,14 +58,4 @@ After running the project, you should see the accuracy scores for the training a
 
 These scores indicate the performance of the Fake News Detector model on the respective datasets.
 
-## Contributing
 
-If you find any issues with the project or have ideas to improve it, feel free to contribute. You can create pull requests or raise issues in the repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Please note that the project dataset (**train.csv**) is not included in this README. Make sure to provide the dataset in the same directory as the notebook or update the file path accordingly in the code. Additionally, the HTML representation of the notebook may not render correctly on GitHub, so it's recommended to run the notebook in a Jupyter environment for the best experience.
